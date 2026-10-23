@@ -1,0 +1,1 @@
+[P21] [('login', 'open', 2), ('open', 'buy', 2), ('open', 'exit', 1)]

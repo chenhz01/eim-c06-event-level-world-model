@@ -1,0 +1,1 @@
+[P20] ['light_on'] invariant_light_on= True
